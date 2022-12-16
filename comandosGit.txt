@@ -3,3 +3,9 @@
 
 - para verificar alteracoes no repositorio local
     git status
+
+- para adicionar uma alteracao / todas alteracoes na proxima versao
+    git add .
+
+- para gerar uma nova versao
+    - git commit -m "descreva brevemente o que alterou"
