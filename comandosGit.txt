@@ -8,4 +8,13 @@
     git add .
 
 - para gerar uma nova versao
-    - git commit -m "descreva brevemente o que alterou"
+    git commit -m "descreva brevemente o que alterou"
+
+- crie o repositorio no git hub
+- utilize o comando git remote criado no repositorio remoto para vincular ao repositorio local
+
+- para enviar as alteracoes para o repositorio remoto
+    git push origin main
+
+- para verificar se a versao do repositorio remoto é mais atual que a versao do repositorio local
+    git pull
